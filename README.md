@@ -7,11 +7,11 @@
 * 机器学习视频网站--**请与课程的进度保持同步**。http://www.coursera.org/learn/machine-learning/
 * matlab下载地址--windows & linux。链接: https://pan.baidu.com/s/1o787KeA 密码: ad6a
 * 数据挖掘导论--作为补充材料。发布于群文件
-* python学习网站。http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000#0
-* python书籍推荐: Python编程(programming python当当有售)
-* numpy教程。https://docs.scipy.org/doc/numpy-dev/user/quickstart.html
-* matplotlib教程。http://www.labri.fr/perso/nrougier/teaching/matplotlib/
-* 其他好资源推荐。http://www.shareditor.com/bloglistbytag/?tagname=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%95%99%E7%A8%8B
+* python极简入门--http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000#0
+* python书籍推荐--Python编程(programming python)
+* numpy教程--https://docs.scipy.org/doc/numpy-dev/user/quickstart.html
+* matplotlib教程--http://www.labri.fr/perso/nrougier/teaching/matplotlib/
+* 其他资源推荐--http://www.shareditor.com/bloglistbytag/?tagname=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%95%99%E7%A8%8B
 
 ### 欢迎来到新手村，你需要完成以下训练：
 
@@ -19,7 +19,7 @@
 
 1. 注册github帐号
 2. star这个仓库
-3. 自学git及github的基础使用，并在自己电脑上配置好环境
+3. 自学git及github的基础使用，并在自己电脑上配置好环境(git教程http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 4. fork这个仓库，clone下你的仓库，在本地创建新的分支（不要使用默认的master分支）
 5. 在本地Task0/15/目录下，添加一个新的文件，以自己的github账户名作为markdown文件的文件名，如：Red-Night-Aria.md
 6. 文件中可以写你想说的任何话 （比如自己的座右铭）
@@ -43,4 +43,4 @@
 * 学习numpy框架的使用
 * 使用python完成Task1
 
-**请于第五周结束前完成以上内容。**
+**请于第六周结束前完成以上内容。**
