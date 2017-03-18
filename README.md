@@ -22,7 +22,7 @@
 3. 自学git及github的基础使用，并在自己电脑上配置好环境(git教程http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 4. fork这个仓库，clone下你的仓库，在本地创建新的分支（不要使用默认的master分支）
 5. 在本地Task0/15/目录下，添加一个新的文件，以自己的github账户名作为markdown文件的文件名，如：Red-Night-Aria.md
-6. 文件中可以写你想说的任何话 （比如自己的座右铭）
+6. 文件中写上自己的本名+你想说的任何话 （比如自己的座右铭）
 7. commit到本地仓库，然后将本地分支推送到remote
 8. 向原仓库的master分支发起pull request，等待合并分支
 
