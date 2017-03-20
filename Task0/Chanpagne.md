@@ -1,7 +1,3 @@
 ﻿# 范航明
-
-stay hungury stay foolish
-
-
-
+Stay hungry， stay foolish
 
