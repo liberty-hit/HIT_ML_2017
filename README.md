@@ -11,7 +11,8 @@
 * python书籍推荐--Python编程(programming python)
 * numpy教程--https://docs.scipy.org/doc/numpy-dev/user/quickstart.html
 * matplotlib教程--http://www.labri.fr/perso/nrougier/teaching/matplotlib/
-* 其他资源推荐--http://www.shareditor.com/bloglistbytag/?tagname=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%95%99%E7%A8%8B
+* 矩阵求导--https://zhuanlan.zhihu.com/p/24709748
+  https://ccjou.wordpress.com/2013/05/31/%E7%9F%A9%E9%99%A3%E5%B0%8E%E6%95%B8/
 
 ### 欢迎来到新手村，你需要完成以下训练：
 
