@@ -11,7 +11,8 @@
 * python书籍推荐--Python编程(programming python)
 * numpy教程--https://docs.scipy.org/doc/numpy-dev/user/quickstart.html
 * matplotlib教程--http://www.labri.fr/perso/nrougier/teaching/matplotlib/
-* 其他资源推荐--http://www.shareditor.com/bloglistbytag/?tagname=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%95%99%E7%A8%8B
+* 矩阵求导--https://zhuanlan.zhihu.com/p/24709748
+  https://ccjou.wordpress.com/2013/05/31/%E7%9F%A9%E9%99%A3%E5%B0%8E%E6%95%B8/
 
 ### 欢迎来到新手村，你需要完成以下训练：
 
@@ -21,8 +22,8 @@
 2. star这个仓库
 3. 自学git及github的基础使用，并在自己电脑上配置好环境(git教程http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 4. fork这个仓库，clone下你的仓库，在本地创建新的分支（不要使用默认的master分支）
-5. 在本地Task0/15/目录下，添加一个新的文件，以自己的github账户名作为markdown文件的文件名，如：Red-Night-Aria.md
-6. 文件中可以写你想说的任何话 （比如自己的座右铭）
+5. 在本地Task0目录下，添加一个新的文件，以自己的github账户名作为markdown文件的文件名，如：Red-Night-Aria.md
+6. 文件中写上自己的本名+你想说的任何话 （比如自己的座右铭）
 7. commit到本地仓库，然后将本地分支推送到remote
 8. 向原仓库的master分支发起pull request，等待合并分支
 
@@ -36,7 +37,7 @@
 2. 使用线性回归算法拟合它们
 3. 画图观察梯度下降的过程,let it nice-looking:)。
 4. 结果图参考Task1/linear_regress.fig
-5. 在Task1/15/目录下提交你的结果图(jpg、png、fig)，以自己的github账户名作为文件名，如：Red-Night-Aria.fig
+5. 在Task1目录下提交你的结果图(jpg、png、fig)，以自己的github账户名作为文件名，如：Red-Night-Aria.fig
 
 ##### 支线任务：
 * 学习python的基本语法
