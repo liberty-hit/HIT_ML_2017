@@ -46,7 +46,7 @@
 
 **请于第六周结束前完成以上内容。**
 
-####3. Task2——Locally Weighted Linear Regression
+#### 3. Task2——Locally Weighted Linear Regression
 
 1. 加载数据Task2/q2x.dat，Task2/q2y.dat
 2. 使用加权线性回归算法拟合它们(请自行查阅局部加权线性回归的资料)  
