@@ -38,7 +38,7 @@ PointsX = np.linspace(-5.5,13.0,n,endpoint=True)
 PointsY = func(PointsX)
 
 #散点绘制
-plt.scatter(X,Y)
+plt.scatter(X,Y,c='r', s=10, marker='o')
 
 #所得函数绘制
 plt.plot(PointsX,PointsY)
