@@ -30,4 +30,4 @@ for idx, tau in enumerate(Tau):
 	Lwr(idx, tau)
 
 plt.show()
-plt.savefig("MMMMMua.pdf")
+plt.savefig("MMMMMua.png", dpi=300)
