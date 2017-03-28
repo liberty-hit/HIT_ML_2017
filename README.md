@@ -37,7 +37,7 @@
 2. 使用线性回归算法拟合它们
 3. 画图观察梯度下降的过程,let it nice-looking:)。
 4. 结果图参考Task1/linear_regress.fig
-5. 在Task1目录下提交你的结果图(jpg、png、fig)，以自己的github账户名作为文件名，如：Red-Night-Aria.fig
+5. 在Task1目录下提交你的结果图(jpg、png、fig)与代码，以自己的github账户名作为文件名，如：Red-Night-Aria.fig
 
 ##### 支线任务：
 * 学习python的基本语法
@@ -45,3 +45,11 @@
 * 使用python完成Task1
 
 **请于第六周结束前完成以上内容。**
+
+#### 3. Task2——Locally Weighted Linear Regression
+
+1. 加载数据Task2/q2x.dat，Task2/q2y.dat
+2. 使用加权线性回归算法拟合它们(请自行查阅局部加权线性回归的资料)  
+3. 改变高斯函数的theta值，观察结果
+4. 画图，结果图参考Task2/Red-Night-Aria.png
+5. 在Task2目录下提交你的结果图(jpg、png、fig)与代码，以自己的github账户名作为文件名，如：Red-Night-Aria.fig
