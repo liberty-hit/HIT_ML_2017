@@ -1,8 +1,5 @@
 import numpy as np
 import matplotlib.pyplot as plt
-import copy
-import random
-from functools import reduce
 
 def Lwr_Single(x, tau):
 	X_mat = np.mat(X)
@@ -12,20 +9,22 @@ def Lwr_Single(x, tau):
 
 def Lwr(idx, tau):
 	theta = np.array([Lwr_Single(x, tau) for x in X])
+
 	Py = np.array(list(map(lambda x, y: x*y, theta, X)))
 	Pt = np.array(sorted(list(map(lambda x, y: (x, y), X, Py))))
+
 	plt.subplot(420+idx+1)
 	plt.scatter(X, Y, c='r', s=1, marker='o')
 	plt.plot(Pt[:,0], Pt[:,1], "-", linewidth=1, label='τ='+str(tau))
 	plt.legend()
 
-X = np.array(list([float(x.strip()) for x in open("q2x.dat").readlines()]))
-Y = np.array(list([float(x.strip()) for x in open("q2y.dat").readlines()]))
+X = list([float(x.strip()) for x in open("q2x.dat").readlines()])
+Y = list([float(x.strip()) for x in open("q2y.dat").readlines()])
 
 fig = plt.figure(figsize=(20,10))
 fig.suptitle("MMMMMua's Graphics", fontsize=25)
 
-Tau = np.logspace(-1, 1, 8)
+Tau = np.logspace(-2, 1, 8)
 for idx, tau in enumerate(Tau):
 	Lwr(idx, tau)
 
