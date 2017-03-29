@@ -27,3 +27,4 @@ for j in range(1,1000):
 plt.savefig("marisuki.png")
 plt.savefig("marisuki:RuiKang's_task1.pdf")
 plt.show()
+
