@@ -13,6 +13,7 @@
 * matplotlib教程--http://www.labri.fr/perso/nrougier/teaching/matplotlib/
 * 矩阵求导--https://zhuanlan.zhihu.com/p/24709748
   https://ccjou.wordpress.com/2013/05/31/%E7%9F%A9%E9%99%A3%E5%B0%8E%E6%95%B8/
+* Desmos图形计算器--https://www.desmos.com/calculator
 
 ### 欢迎来到新手村，你需要完成以下训练：
 
