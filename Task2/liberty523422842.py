@@ -249,3 +249,4 @@ lwr_all(x, y, 30, 'g','-','tau = 30')
 lwr_all(x, y, 100, 'b', ':','tau = 100')
 plt.legend()
 show()
+
