@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 from numpy import *
 from pylab import *
 import matplotlib.pyplot as plt
@@ -503,4 +502,3 @@ lwr_all(x, y, 30, 'g','-','tau = 30')
 lwr_all(x, y, 100, 'b', ':','tau = 100')
 plt.legend()
 show()
->>>>>>> 15c2936bd46c4e22cc3d656b0cec0acb9875cc2c
