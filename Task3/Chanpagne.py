@@ -19,7 +19,7 @@ for x1, x2 in tempX:
 		x1*(x2**4), x2**5))
 theta = ones((21,1))
 m = size(Y)
-time = 5000
+time = 10000
 alpha = 0.01
 for i in range(m):
 	if Y[i] == 1.0:
@@ -39,5 +39,5 @@ f = theta[0, 0] + theta[1, 0]*x1 + theta[2, 0]*x2 + theta[3, 0]*x1**2 + theta[4,
 	+ theta[11, 0]*(x1**3)*x2 + theta[12, 0]*(x1**2)*(x2**2) +theta[13, 0]*x1*(x2**3) + theta[14, 0]*x2**4 + \
 	+ theta[15, 0]*x1**5 + theta[16, 0]*(x1**4) * x2 + theta[17, 0]*(x1**3)*(x2**2) + theta[18, 0]*(x1**2)*(x2**3) \
 	+ theta[19, 0]*x1*(x2**4) + theta[20, 0]*x2**5
-plt.contour(x1, x2, f, 0)
-plt.show()
+contour(x1, x2, f, 0)
+show()
