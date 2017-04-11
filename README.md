@@ -68,3 +68,12 @@
 	* 用牛顿法取代梯度下降法实现算法
 
 **请于第八周结束前完成以上内容。**
+
+####5. Task4——Simple Neural Network(part 1)
+
+1. 加载数据Task4/watermelon.txt
+2. 使用单隐层神经网络拟合对数据进行分类
+3. 结果图参考Task4/Red-Night-Aria.png
+4. 在Task4目录下提交你的结果图(jpg、png、fig)与代码，以自己的github账户名作为文件名。
+	
+**请于第九周结束前完成以上内容**
