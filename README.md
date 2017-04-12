@@ -62,9 +62,22 @@
 1. 加载数据Task3/task3\_x.dat，Task3/task3\_y.dat
 2. 使用逻辑斯底回归算法对它们进行分类
 3. 结果图参考Task3/Red-Night-Aria.png
-4. 在Task3/15/目录下提交你的结果图(jpg、png)，以自己的github账户名作为文件名。
+4. 在Task3目录下提交你的结果图(jpg、png)，以自己的github账户名作为文件名。
 
-    支线任务：
-	* 用牛顿法取代梯度下降法实现算法
+##### 支线任务：
+* 用牛顿法取代梯度下降法实现算法
 
 **请于第八周结束前完成以上内容。**
+
+####5. Task4——Simple Neural Network(part 1)
+
+1. 加载数据Task4/watermelon.txt
+2. 使用单隐层神经网络拟合对数据进行分类
+3. 结果图参考Task4/Red-Night-Aria.png
+4. 在Task4目录下提交你的结果图(jpg、png、fig)与代码，以自己的github账户名作为文件名。
+
+##### 支线任务：
+* 论证以密度和含糖率来分辨西瓜的好坏是否合理。
+
+**请于第九周结束前完成以上内容**
+
