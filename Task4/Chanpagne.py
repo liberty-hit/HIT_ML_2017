@@ -2,13 +2,23 @@
 from numpy import *
 from pylab import *
 import random as rd
-#手动修改了txt文件···
+
 def sigmoid(x):
 	return 1.0 / (1.0 + exp(-x))
 
-X = [[float(a) for a in x.split()] for x in open("watermelonx.txt").readlines()]             			   # m X 2
-Y = [float(x) for x in open("watermelony.txt").readlines()]
+X = []
+Y = []
+for x in open("watermelon.txt").readlines():
+	if x[0] == '编':
+		continue
+	temp = [a for a in x.split()]
+	X.append([float(temp[1]), float(temp[2])])
+	if temp[3] == '是':
+		Y.append(1.0)
+	else:
+		Y.append(0.0)
 m = size(Y)
+print(shape(mat(X)))
 for i in range(m):
 	if Y[i] == 1.0:
 		scatter(X[i][0], X[i][1], c = 'r', marker = '+')
