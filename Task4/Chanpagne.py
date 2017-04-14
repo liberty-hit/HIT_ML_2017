@@ -18,7 +18,6 @@ for x in open("watermelon.txt").readlines():
 	else:
 		Y.append(0.0)
 m = size(Y)
-print(shape(mat(X)))
 for i in range(m):
 	if Y[i] == 1.0:
 		scatter(X[i][0], X[i][1], c = 'r', marker = '+')
