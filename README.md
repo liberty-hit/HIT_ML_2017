@@ -90,6 +90,7 @@
 2. 使用sklearn库设计神经网络，完成对MNIST数据集的训练(参考文档http://scikit-learn.org/dev/modules/neural_networks_supervised.html#neural-networks-supervised)
 3. 利用训练好的模型，预测自己的手写数字图片
 4. 在Task5目录下提交你的结果图与代码。(结果图的格式与内容随意 XD
+
 (tips: 训练前用Pillow或matplotlib观察待训练数据，确保数据格式无误)
 
 #### 支线任务：
